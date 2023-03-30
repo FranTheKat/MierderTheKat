@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&vCenter=true&width=435&lines=Hello+%2C+I'm+Francisco+Rivera" alt="Typing SVG" /></a>
+
+### and I'm a Software Engineering
 
 <!--
 **MierderTheKat/MierderTheKat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
