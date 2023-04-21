@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&vCenter=true&width=352&lines=Hello+%2C+I'm+Francisco+Rivera" alt="Typing SVG" /></a></p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=25&pause=1000&color=8C76CC&background=FFFFFF00&vCenter=true&width=352&lines=Hello+%2C+I'm+Francisco+Rivera" alt="Typing SVG" /></a></p>
 <h3 align="center">and I'm a Software Engineering Student</h3>
 <p align="center">I am passionate about learning about various topics that interest me and I am always motivated to acquire new knowledge in any field.</p>
 
