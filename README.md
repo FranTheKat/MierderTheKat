@@ -5,13 +5,13 @@
 <!--## 🌐 Socials:-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-riv)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ing.francisco.rivera)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MierderTheKat)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/FranTKat)
 <!--##
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/KZqqcDt33b)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/MierderTheKat)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MierderTheKat)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MierderTheKat)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mierderthekat)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/FranTheKat)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FranTheKat)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FranTheKat)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@FranTheKat)
 -->
 [![Email](https://img.shields.io/badge/💌_Email-6DA55F.svg?&logoColor=white)](mailto:fcojavriv12@gmail.com)
 
@@ -51,18 +51,18 @@
 -->
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MierderTheKat&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MierderTheKat&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=FranTheKat&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranTheKat&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 <!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=MierderTheKat&theme=blueberry&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=FranTheKat&theme=blueberry&hide_border=true)
 -->
 
 <!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MierderTheKat&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=FranTheKat&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=MierderTheKat)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=FranTheKat)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
@@ -70,7 +70,7 @@
 -->
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MierderTheKat&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=FranTheKat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--
 
@@ -80,4 +80,4 @@
 ---
 -->
 
-[![](https://visitcount.itsvg.in/api?id=MierderTheKat&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=FranTheKat&icon=2&color=6)](https://visitcount.itsvg.in)
